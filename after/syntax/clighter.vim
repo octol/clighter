@@ -7,11 +7,11 @@ hi default link clighterFieldDecl Type
 hi default link clighterFunctionDecl Function
 hi default link clighterEnumConstantDecl Constant
 hi default link clighterDeclRefExprEnum Identifier
-hi default link clighterDeclRefExprCall Identifier
-hi default link clighterMemberRefExpr Identifier
-hi default link clighterTypeRef Identifier
-hi default link clighterNamespace Type
+hi default link clighterDeclRefExprCall Function
+hi default link clighterMemberRefExpr Function
+hi default link clighterTypeRef Type
+hi default link clighterNamespace Constant
 hi default link clighterTemplateTypeParameter Type
-hi default link clighterTemplateRef Identifier
+hi default link clighterTemplateRef Type
 
 hi default link clighterOccurrences IncSearch
